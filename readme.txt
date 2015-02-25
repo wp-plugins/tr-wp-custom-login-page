@@ -11,7 +11,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-WP Custom Login Page allows you to change your unlimited custom logo,unlimited custom text,unlimited custom background color etc. with its lots of features.
+WP Custom Login Page allows you to change your unlimited custom logo,unlimited custom text,unlimited custom  color etc. with its lots of features.
 
 
 == Description ==

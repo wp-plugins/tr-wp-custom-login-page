@@ -11,7 +11,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-WP Custom Login Page allows to you change your unlimited custom logo,unlimited custom text,unlimited custom background color,unlimited custom body background color easily.
+WP Custom Login Page allows you to change your unlimited custom logo,unlimited custom text,unlimited custom background color etc. with its lots of features.
 
 
 == Description ==
@@ -26,6 +26,15 @@ Plugin Features !!!!!
 * Unlimited custom body background color.
 * Unlimited custom welcome text.
 
+
+
+* [Our Others WordPress Plugins](//wordpress.org/plugins/search.php?q=bestthemeroad)
+ * [Easy Responsive Google Map](//wordpress.org/plugins/easy-responsive-google-map/)
+ * [Amazing Pricing Table](//wordpress.org/plugins/amazing-pricing-table/)
+ * [Developers Total Widgets](wordpress.org/plugins/developers-total-widgets/)
+ * [Perfect Client Testimonial](wordpress.org/plugins/perfect-client-testimonial/)
+ * [Tr Easy Google Analytics ](wordpress.org/plugins/tr-easy-google-analytics/)
+ * [Wp Nice Responsive Faq](wordpress.org/plugins/nice-responsive-wp-faq/)
 
 
 

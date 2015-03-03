@@ -1,10 +1,33 @@
 <?php  
 
+
 /**
- * Plugin Name: TR Custom Login
- * 
- * 
+ * Plugin Name: TR WP Custom Login Page
+ * Plugin URI: http://nakshighor.com/plugins/
+ * Description: WP Custom Login Page allows to you change your unlimited custom logo,unlimited custom text,unlimited custom background color,unlimited custom body background color easily.After publishing this plugin people enjoy custom wp login page smoothly. It's really easy to use. So, enjoy and don't forget to rated us.
+ 
+ * Version:  1.0.0
+ * Author: Theme Road
+ * Author URI: http://nakshighor.com/plugins/
+ * License:  GPL2
+ *Text Domain: tmrd
+ *  Copyright 2015 GIN_AUTHOR_NAME  (email : BestThemeRoad@gmail.com)
+ *
+ *	This program is free software; you can redistribute it and/or modify
+ *	it under the terms of the GNU General Public License, version 2, as
+ *	published by the Free Software Foundation.
+ *
+ *	This program is distributed in the hope that it will be useful,
+ *	but WITHOUT ANY WARRANTY; without even the implied warranty of
+ *	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ *	GNU General Public License for more details.
+ *
+ *	You should have received a copy of the GNU General Public License
+ *	along with this program; if not, write to the Free Software
+ *	Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
+ *
  */
+
 
 
 require_once('tr_settings.php');

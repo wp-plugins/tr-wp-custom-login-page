@@ -35,6 +35,10 @@ Plugin Features !!!!!
  * [Perfect Client Testimonial](wordpress.org/plugins/perfect-client-testimonial/)
  * [Tr Easy Google Analytics ](wordpress.org/plugins/tr-easy-google-analytics/)
  * [Wp Nice Responsive Faq](wordpress.org/plugins/nice-responsive-wp-faq/)
+ * [Easy Google Webmaster Tools](https://wordpress.org/plugins/easy-webmaster-tools/)
+ * [WP Custom Header Footer](https://wordpress.org/plugins/wp-custom-header-footer/)
+ * [TR WP Custom Login Page](https://wordpress.org/plugins/tr-wp-custom-login-page/)
+ * [TR Recent Post View By Category](https://wordpress.org/plugins/tr-recent-post-view-by-category/)
 
 
 

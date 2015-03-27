@@ -16,6 +16,8 @@ WP Custom Login Page allows you to change your unlimited custom logo,unlimited c
 
 == Description ==
 
+### TR WP Custom Login Page by http://themeroad.net
+
 WP Custom Login Page allows to you change your unlimited custom logo,unlimited custom text,unlimited custom background color,unlimited custom body background color easily.After publishing this plugin people enjoy custom wp login page smoothly. It's really easy to use. So, enjoy and don't forget to rated us.
 
 Plugin Features !!!!!
@@ -25,8 +27,8 @@ Plugin Features !!!!!
 * Unlimited custom background color.
 * Unlimited custom body background color.
 * Unlimited custom welcome text.
-
-
+* [Upgrade to the Pro Version Now!&raquo;](http://themeroad.net/product/tr-custom-login/"Pro Version")
+* [View a live demo &raquo;](http://themeroad.net/roadtheme/)
  
 * [Our Others WordPress Plugins](https://wordpress.org/plugins/search.php?q=bestthemeroad)
  * [Easy Responsive Google Map](https://wordpress.org/plugins/easy-responsive-google-map/)

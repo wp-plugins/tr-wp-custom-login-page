@@ -30,16 +30,20 @@ Plugin Features !!!!!
 * [Upgrade to the Pro Version Now!&raquo;](http://themeroad.net/product/tr-custom-login/)
 * [View a live demo &raquo;](http://themeroad.net/roadtheme/)
  
-* [Our Others WordPress Plugins](https://wordpress.org/plugins/search.php?q=bestthemeroad)
- * [Easy Responsive Google Map](https://wordpress.org/plugins/easy-responsive-google-map/)
- * [Amazing Pricing Table](https://wordpress.org/plugins/amazing-pricing-table/)
- * [Developers Total Widgets](https://wordpress.org/plugins/developers-total-widgets/)
- * [Perfect Client Testimonial](https://wordpress.org/plugins/perfect-client-testimonial/)
- * [TR Easy Google Analytics ](https://wordpress.org/plugins/tr-easy-google-analytics/)
- * [Nice Responsive WP Faq](https://wordpress.org/plugins/nice-responsive-wp-faq/)
- * [Easy Google Webmaster Tools](https://wordpress.org/plugins/easy-webmaster-tools/)
- * [WP Custom Header Footer](https://wordpress.org/plugins/wp-custom-header-footer/)
- * [TR Recent Post View By Category](https://wordpress.org/plugins/tr-recent-post-view-by-category/) 
+ ### TR WP Custom Login Page Pro Version Features
+ 
+ WP Custom Login Page is a simple plugin allows to you customize your wordpress login page everything.By using this plugin you will get lots of thing to customize your login page.After installing the plugin you will get five setting panel and those are :
+		
+* Basic settings
+* Login Form settings
+* Captcha settings
+* Dashboard settings
+* Advance settings						
+			
+you will get lots of sub-options in those settings panel for customize your login page which i will try to said about the title of every options below here and details I describe in the Configuration content section.		
+ 
+ 
+If you buy this plugin and install it you will get the lots of options.You can get the unlimited solid background options,unlimited background images options, unlimited pattern background options,unlimited logo change options,unlimited login form background options,unlimited login form border options, unlimited login form border-radius options,unlimited login form text-color options,unlimited login form input-box background option,unlimited login form input-box border option, unlimited login form input-box border radius options,unlimited input-box text-color,unlimited login form button text color,unlimited login form button background color,unlimited login form button background hover color, color,login-form footer link text-color,login-form footer link hover text-color,unlimited welcome text top of the login-form,unlimited welcome-text color,unlimited footer text,unlimited footer text color,you will get able use captcha options,you will get captcha on-off system and also some advance options like get adding the custom js or css in the plugins etc.
 
 
 

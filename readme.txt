@@ -27,7 +27,7 @@ Plugin Features !!!!!
 * Unlimited custom background color.
 * Unlimited custom body background color.
 * Unlimited custom welcome text.
-* [Upgrade to the Pro Version Now!&raquo;](http://themeroad.net/product/tr-custom-login "Pro Version")
+* [Upgrade to the Pro Version Now!&raquo;](http://themeroad.net/product/tr-custom-login/)
 * [View a live demo &raquo;](http://themeroad.net/roadtheme/)
  
 * [Our Others WordPress Plugins](https://wordpress.org/plugins/search.php?q=bestthemeroad)

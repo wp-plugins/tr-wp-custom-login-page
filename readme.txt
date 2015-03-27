@@ -30,7 +30,7 @@ Plugin Features !!!!!
 * [Upgrade to the Pro Version Now!&raquo;](http://themeroad.net/product/tr-custom-login/)
 * [View a live demo &raquo;](http://themeroad.net/roadtheme/)
  
-## TR WP Custom Login Page Pro Version Features
+### Pro Version Features
  
 WP Custom Login Page is an awesome plugin allows to you customize your wordpress login page everything.By using this plugin you will get lots of thing to customize your login page.After installing the plugin you will get five setting panel and those are :
 		

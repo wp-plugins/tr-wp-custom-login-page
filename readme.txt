@@ -42,41 +42,39 @@ WP Custom Login Page is an awesome plugin allows to you customize your wordpress
 			
 you will get lots of sub-options in those settings panel for customize your login page which i will try to said about the title of every options below here :
 
+	* Custom Login Body background
+	* Custom Login logo
+	* Custom Welcome text
+	* Custom footer text
+	* Unlimited Welcome text color
+	* Unlimited Custom Footer text color
+	* Unlimited Login Form Background
+	* Login Form Border
+	* Login Form Border radius
+	* Login Form Input Box Border Radius
+	* Login Form Input Box Border 
+	* Login Form Input Background Color
+	* Login Form Input Text Color
+	* Login Form Label Text Color
+	* Login Form Link Color
+	* Login Form Link hover Color
+	* Login Form Button Text Color
+	* Login Form Button Background
+	* Login Form Button Hover Background
+	* Login Error Background Color
+	* Login Error Message Text Color
+	* Log Out Message Background
+	* Log Out Message Text color
+	* Captcha options
+	* Custom Welcome Message
+	* Dashboard Logo
+	* Custom Footer Text
+	* Custom Css For Login Page
+	* Custom Css For Frontend
+	* Custom Js For Frontend
 
-<ul>
-	<li>Custom Login Body background</li>
-	<li>Custom Login logo</li>
-	<li>Custom Welcome text</li>
-	<li>Custom footer text</li>
-	<li>Unlimited Welcome text color</li>
-	<li>Unlimited Custom Footer text color</li>
-	<li>Unlimited Login Form Background</li>
-	<li>Login Form Border</li>
-	<li>Login Form Border radius</li>
-	<li>Login Form Input Box Border Radius</li>
-	<li>Login Form Input Box Border </li>
-	<li>Login Form Input Background Color</li>
-	<li>Login Form Input Text Color</li>
-	<li>Login Form Label Text Color</li>
-	<li>Login Form Link Color</li>
-	<li>Login Form Link hover Color</li>
-	<li>Login Form Button Text Color</li>
-	<li>Login Form Button Background</li>
-	<li>Login Form Button Hover Background</li>
-	<li>Login Error Background Color</li>
-	<li>Login Error Message Text Color</li>
-	<li>Log Out Message Background</li>
-	<li>Log Out Message Text color</li>
-	<li>Captcha options</li>
-	<li>Custom Welcome Message</li>
-	<li>Dashboard Logo</li>
-	<li>Custom Footer Text</li>
-	<li>Custom Css For Login Page</li>
-	<li>Custom Css For Frontend</li>
-	<li>Custom Js For Frontend</li>
-	</ul>>	
-<strong>And lots more features are coming in the next update.So,waiting for that and just keep with us</strong>
-<p>Don't forget to rate us.If you like our plugin and also don't forget contact us for solve your problem at first.</p>
+And lots more features are coming in the next update.So,waiting for that and just keep with us
+Don't forget to rate us.If you like our plugin and also don't forget contact us for solve your problem at first.
 
 
 

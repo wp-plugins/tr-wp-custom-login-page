@@ -40,11 +40,43 @@ WP Custom Login Page is an awesome plugin allows to you customize your wordpress
 * Dashboard settings
 * Advance settings						
 			
-you will get lots of sub-options in those settings panel for customize your login page which i will try to said about the title of every options below here and details I describe in the Configuration content section.		
- 
- 
-If you buy this plugin and install it you will get the lots of options.You can get the unlimited solid background options,unlimited background images options, unlimited pattern background options,unlimited logo change options,unlimited login form background options,unlimited login form border options, unlimited login form border-radius options,unlimited login form text-color options,unlimited login form input-box background option,unlimited login form input-box border option, unlimited login form input-box border radius options,unlimited input-box text-color,unlimited login form button text color,unlimited login form button background color,unlimited login form button background hover color, color,login-form footer link text-color,login-form footer link hover text-color,unlimited welcome text top of the login-form,unlimited welcome-text color,unlimited footer text,unlimited footer text color,you will get able use captcha options,you will get captcha on-off system and also some advance options like get adding the custom js or css in the plugins etc.
+you will get lots of sub-options in those settings panel for customize your login page which i will try to said about the title of every options below here :
 
+
+<ul>
+	<li>Custom Login Body background</li>
+	<li>Custom Login logo</li>
+	<li>Custom Welcome text</li>
+	<li>Custom footer text</li>
+	<li>Unlimited Welcome text color</li>
+	<li>Unlimited Custom Footer text color</li>
+	<li>Unlimited Login Form Background</li>
+	<li>Login Form Border</li>
+	<li>Login Form Border radius</li>
+	<li>Login Form Input Box Border Radius</li>
+	<li>Login Form Input Box Border </li>
+	<li>Login Form Input Background Color</li>
+	<li>Login Form Input Text Color</li>
+	<li>Login Form Label Text Color</li>
+	<li>Login Form Link Color</li>
+	<li>Login Form Link hover Color</li>
+	<li>Login Form Button Text Color</li>
+	<li>Login Form Button Background</li>
+	<li>Login Form Button Hover Background</li>
+	<li>Login Error Background Color</li>
+	<li>Login Error Message Text Color</li>
+	<li>Log Out Message Background</li>
+	<li>Log Out Message Text color</li>
+	<li>Captcha options</li>
+	<li>Custom Welcome Message</li>
+	<li>Dashboard Logo</li>
+	<li>Custom Footer Text</li>
+	<li>Custom Css For Login Page</li>
+	<li>Custom Css For Frontend</li>
+	<li>Custom Js For Frontend</li>
+	</ul>>	
+<strong>And lots more features are coming in the next update.So,waiting for that and just keep with us</strong>
+<p>Don't forget to rate us.If you like our plugin and also don't forget contact us for solve your problem at first.</p>
 
 
 

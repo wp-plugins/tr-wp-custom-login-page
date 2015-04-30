@@ -6,7 +6,7 @@ Donate link:
 Tags: custom, login,add client logo to login page, admin login logo, admin logo, change admin logo, change login logo, custom admin logo, custom login page, plugin, wp-admin,additional html, brand, brand login, custom login, customize, foolproof, inject css, login page, login redirect, login widget, multisite, own css, own look,admin, custom login, custom logo, customisation, customise, customization, customize, logo, branding, custom login, custom login pro, customization, customizer, error, login, login customizer, login error, login logo, login page, custom login, custom login color, custom page, customization, error, login error, login page, logo change, branding,customisation,customize, dashboard, erident, form, captcha, google captcha, google recaptcha, nocaptcha recaptcha, security, wordpress security, custom css, css, js, custom js, fronted css, fronted js, login form change, dashboard, custom dashboard, custom footer, gettext, welcome text, transparent form, transparent background, custom color, form radius, form border, input color, input text color, code script, custom footer, custom footer script, custom head, custom head script, custom header, custom header script, footer, footer code, footer javascript, footer script, google analytics, Google Analytics code, Google Analytics conversion code, Google Analytics conversion script, Google Analytics footer code, Google Analytics footer script, Google Analytics head code, Google Analytics head script, Google Analytics javascript, Google Analytics remarketing code, Google Analytics remarketing script, Google Analytics script, Google Analytics tracking code, Google Analytics tracking script, head, head code, head footer code, head footer script, head javascript, head script, header, header code, header footer, header footer code, header footer script, header javascript, header script, javascript code, script, tracking code, tracking javascript, tracking script,active, footer, header, info, insert, log, login, plugin, show, source, wordpress,footer, header, javascript, JS, re-marketing code,CSS, custom code, custom post, header, Post, script,coffee2code, custom fields, data, extra, meta, page, pages, Post, posts, shortcode, widget, widgets, super simple , 
 
 Requires at least: 3.5
-Tested up to: 4.1
+Tested up to: 4.2.1
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -76,6 +76,15 @@ you will get lots of sub-options in those settings panel for customize your logi
 And lots more features are coming in the next update.So,waiting for that and just keep with us
 Don't forget to rate us.If you like our plugin and also don't forget contact us for solve your problem at first.
 
+
+* [Our Premium Plugins](http://themeroad.net/)
+ * [TR WP Custom Login](http://themeroad.net/product/tr-custom-login/)
+ * [TR Advanced Price Plan Pro](http://themeroad.net/product/tr-advanced-price-plan-pro/)
+ * [TR WooCommerce Image Zoom PRO](http://themeroad.net/product/woocommerce-image-zoom-pro/)
+ * [TR Carousel Slider Pro](http://themeroad.net/product/tr-carousel-slider-pro/)
+ * [TR Logo Slider Pro](http://themeroad.net/product/tr-logo-slider-pro/)
+ * [TR Filterable Portfolio Pro](http://themeroad.net/product/tr-filterable-portfolio-pro/)
+ * [TR Nice Accordion Pro](http://themeroad.net/product/tr-nice-accordion/)
 
 
 == Installation ==

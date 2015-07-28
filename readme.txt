@@ -86,6 +86,7 @@ Don't forget to rate us.If you like our plugin and also don't forget contact us 
  * [TR Filterable Portfolio Pro](http://themeroad.net/Products/204/)
  * [TR Nice Accordion Pro](http://themeroad.net/Products/tr-premium-accordion-pro/)
 
+ Check Details:
 
 == Installation ==
 
